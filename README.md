@@ -12,13 +12,11 @@
     <li><a href="#出國前">出國前</a></li>
     <li><a href="#到日本後">到日本後</a></li>
     <li><a href="#住宿方面">住宿方面</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
-## 出國前:
+#
+# 出國前:
 source: [左撇子のGen (2019)](https://www.youtube.com/watch?v=wMnYBIvoW8c&ab_channel=%E5%B7%A6%E6%92%87%E5%AD%90%E3%81%AEGen)
 
 ### 印章 (有人說現在台灣方的章也可以 [dcard 留言](https://www.dcard.tw/f/japan_life/p/241295243))
@@ -65,8 +63,8 @@ source: [左撇子のGen (2019)](https://www.youtube.com/watch?v=wMnYBIvoW8c&ab_
 * 經費支付人銀行存款證明(需超過75萬新台幣)
 * 兵役證明(若無請E-mail告知)
 
-
-## 到日本後:
+#
+# 到日本後:
 * source: [dcard 小羅同學在日本 (2021)](https://www.dcard.tw/f/japan_life/p/241295243)
 * 上面這個講的很用心，啊我也還沒去日本，所以其實啥也不知道，請去看原文
 
@@ -105,9 +103,94 @@ source: [左撇子のGen (2019)](https://www.youtube.com/watch?v=wMnYBIvoW8c&ab_
 * [NURO Mobile dcard (2023)](https://www.dcard.tw/f/persona_sun_narrative/p/241530067)
 * [其他討論 dcard (2022)](https://www.dcard.tw/f/japan_life/p/238729520)
 
-## 住宿方面
+#
+# 住宿方面
+* (代辦讓我們從這幾個東東挑，所以稍微找了一下資料)
+* (如果想住學生會館的話，可以去追蹤他們twitter，可以看到每天吃啥，挺有趣的)
+
+### 東仁
+* (學生會館：有２４小時門禁管制，有附餐)
+* (東仁學生會館：僅限東京)
+* (不少人存有「學生會館等同於高價位」的既定印象，但相對學生會館提供的是「安心‧安全」、「供餐」、「入住者皆是學生」等附加價值；某個網站是這樣介紹的，我覺得很貼切)
+* (youtube已經沒再更新了)
+
+* [官網](https://tokyo-stage.co.jp/lang/zh-hans/kaikan/)
+* [youtube](https://www.youtube.com/@tohjin1970/videos)
+* [twitter](https://twitter.com/tokyo_stage/media?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3Atokyo_stage%7Ctwcon%5Es2)
+* [ig](https://www.instagram.com/tokyo_dormitory/)
+* [ptt (2016)](https://www.ptt.cc/bbs/JapanStudy/M.1474050080.A.D22.html)
+* [dcard (2023)](https://www.dcard.tw/f/japan_life/p/242481029)
+* [dcard (2023)](https://www.dcard.tw/f/japan_life/p/242341299) 
+* [dcard (2022)](https://www.dcard.tw/f/japan_life/p/238299866) 
 
 
+### 共立
+* 共立學生會館：全日本
+* (有門禁，東西看起來比東仁好吃，但好像貴，有人遇到租A但是跟你說A滿了換B)
+* (評價兩極，住套房的感覺都說不錯)
+* (總之就是房間很多，申請抽籤看命運)
+
+* [官網](https://dormy-ac.com/)
+* [ig](https://www.instagram.com/dormy_style/)
+* [youtube](https://www.youtube.com/channel/UC_8PFLh6ojek1oFqXtswfAA)
+* [ptt (2016)](https://moptt.tw/p/JapanStudy.M.1668922139.A.BE8)
+* [ptt (古代文)](https://www.ptt.cc/man/JapanStudy/D6BA/D387/DCA4/index.html) (一堆 但很舊)
+* [youtube (2022)](https://www.youtube.com/watch?v=maG4r4x7vsI&ab_channel=CHUCHU%E2%80%99slifeinJapan)
+* [dcard (2019)](https://www.dcard.tw/f/japan_life/p/232090807) 
+* [dcard (2022)](https://www.dcard.tw/f/japan_life/p/238339817) 
+* [dcard (2022)](https://www.dcard.tw/f/japan_life/p/239587655) 
+* [dcard (2022)](https://www.dcard.tw/f/japan_life/p/239930681) 
+* [dcard (2022)](https://www.dcard.tw/f/japan_life/p/238514675) 
+* [dcard (2023)](https://www.dcard.tw/f/japan_life/p/241127427) 
+* [dcard (2023)](https://www.dcard.tw/f/japan_life/p/242546752) 
+* [dcard (2023)](https://www.dcard.tw/f/japan_life/p/250712710) (有讀京都找嵐山的，資料做很詳細) (他沒排到dormy)
+
+
+
+> [!NOTE]
+> * 學生會館大概兩種:
+> * 一個人一間房間，但是浴室共用、廁所也共用，房間只能拿來睡覺辦公
+> * 一個人一間房間，有廁所，乾濕分離，還有浴缸、洗衣機、廚具
+
+
+### unilife
+* 學生公寓（全日本） (找不太到評價跟討論)
+* [(我去看官網查中野、新宿、豐島，品質不一，有些家徒四壁，有得有附飯，有的貴)](
+https://www.unilife.co.jp/search/area/pref_id:13/result/?m_city_id=13104,13114,13116&city_name=%E6%96%B0%E5%AE%BF%E5%8C%BA%20%E4%B8%AD%E9%87%8E%E5%8C%BA%20%E8%B1%8A%E5%B3%B6%E5%8C%BA)
+
+* [官網](https://www.unilife.co.jp/city/tokyo/)
+* [youtube](https://www.youtube.com/@UniLife)
+* [ptt (2009)](https://www.ptt.cc/bbs/JapanStudy/M.1251603378.A.FA4.html) 
+
+### gg house
+* 一般租屋公司 （僅限東京）
+* (我看好像多以share house為主)
+* (沒有想住share house欸)
+* [官網](https://gghouse.co.jp/en/)
+
+
+### Leo 21
+* 一般租屋公司（全日本）
+* (噪音，便宜，設定網擄可能很麻煩，WIFI，瓦斯費注意，清潔問題，不要選木造的，廚房很小)
+* (有分マンション跟アパート) (個人感覺就是高級公寓跟平民區的感覺，アパート就很像動漫會出現的那種，鏈鋸人、一拳超人、殭屍100，沒有管理員沒有電梯的那種)
+* (マンション天花板很矮，聽說) (記得好像joman去日本看房系列，裡面有個人說的)
+* (去yt搜尋レオパレス，會有超多日本素人幫你介紹房子，順帶一提hajime [9年前也住這(2014)](https://www.youtube.com/watch?v=Gw3eOtE9b5g&ab_channel=%E3%81%AF%E3%81%98%E3%82%81%E3%81%97%E3%82%83%E3%81%A1%E3%82%87%E3%83%BC2%28hajime%29)，雖然我不知道他是誰，但他有289萬訂閱，你們可能聽過)
+
+
+* [官網](https://en.leopalace21.com/)
+* [youtube](https://www.youtube.com/watch?v=NtNLqk-O4vU&ab_channel=kinacovlog)
+* [勸退報導 (2020)](https://moneysave.info/leopalace/)
+* [youtube (推)](https://www.youtube.com/watch?v=iq9i8mcccPQ&ab_channel=%E3%82%8F%E3%81%93%E3%81%86) (建議看，影片跟留言大概包括了全部注意的事項)
+* [ptt (2008)](https://www.ptt.cc/bbs/JapanStudy/M.1215843564.A.561.html) 
+* [ptt (2006)](https://www.ptt.cc/man/JapanStudy/D6BA/D387/DCA7/M.1256443290.A.1A4.html )
+* [dcard (2017)](https://www.dcard.tw/f/travel/p/227245344)
+* [dcard (2022)](https://www.dcard.tw/f/japan_life/p/238440066) 
+* [知乎 (推)(2017)](https://www.zhihu.com/question/50882870/answer/163202254)  (中國人評價，很中肯)
+* [dcard (2023)](https://www.dcard.tw/f/japan_life/p/248955367) 
+
+
+### R-japan：一般租屋公司（僅限大阪）
+* 我在東京，我沒查
 
 
 
