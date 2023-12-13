@@ -68,6 +68,7 @@ source: [左撇子のGen (2019)](https://www.youtube.com/watch?v=wMnYBIvoW8c&ab_
 * source: [dcard 小羅同學在日本 (2021)](https://www.dcard.tw/f/japan_life/p/241295243)
 * 上面這個講的很用心，啊我也還沒去日本，所以其實啥也不知道，請去看原文
 * source: [youtube (2021) (這個講得也很不錯，可以看)](https://www.youtube.com/watch?v=2CIkQCht-Fk&ab_channel=%E5%A4%A7%E5%96%AC%E5%B0%8F%E8%81%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%2FKiu%26Chung)
+* source: [youtube (2022)](https://www.youtube.com/watch?v=4Tc3FvsGrZY&ab_channel=%E5%B0%8F%E8%8A%B1%E8%93%AE%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AE%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D)
 
 ### 在留卡
 * 在留卡是每個在日外國人都會有的卡片，上面會登記你的資訊(名字、性別、國家等等)，你在過海關的人會拿到，在留卡只有長期滯留的人才會拿到，觀光客是拿不到的喔！
