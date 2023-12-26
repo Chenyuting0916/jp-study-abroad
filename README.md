@@ -29,6 +29,7 @@ source: [左撇子のGen (2019)](https://www.youtube.com/watch?v=wMnYBIvoW8c&ab_
   * (我是在照相館有換襯衫拉，還是穿襯衫拍比較保險? 可能要看你的用途，自己拍前查查看ㄅ)
 
 ### 信用卡
+  * [ptt 大戶簽帳金融卡](https://www.ptt.cc/bbs/Japan_Travel/M.1675580748.A.B34.html) (好像還不錯?)
   * 我還沒用= =
 
 ### 台灣手機
